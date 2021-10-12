@@ -76,7 +76,8 @@ In this section we:
 - Confirm visually the assumption that house near large cities are more expensive
 - Confirm that the feature most correlated with the housing price is the median income
 
-https://github.com/simon-delisle/District-Real-Estate/blob/main/Geographical_Population_and_Median_House_Value.png
+![GitHub Logo](Geographical_Population_and_Median_House_Value.png)
+
 
 ## Feature Combinations and Pre-processing Pipelines
 As said earlier, we want to combine and modify some of the features so they become more meaningful:
