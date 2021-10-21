@@ -102,3 +102,8 @@ We tested 9 popular models for the regression problem. CatBoost had the best per
 
 We tuned the catboost model and compared it against an autoML tool developped by Microsoft (FlaML). The performance between the model we train and the one obtained by the autoML tool were very similar.
 
+### Actual vs Predicted (Trained Model)
+![GitHub Logo](trained_model_performance.png)
+
+### Actual vs Predicted (AutoMl Model)
+![GitHub Logo](automl_model_performance.png)
