@@ -78,6 +78,7 @@ In this section we:
 
 ![GitHub Logo](Geographical_Population_and_Median_House_Value.png)
 
+![GitHub Logo](Correlation_Matrix.png)
 
 ## Feature Combinations and Pre-processing Pipelines
 As said earlier, we want to combine and modify some of the features so they become more meaningful:
